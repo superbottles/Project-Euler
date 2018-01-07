@@ -1,0 +1,6 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- .
+extra-deps: [primes-0.2.1.0]
+resolver: lts-9.18
